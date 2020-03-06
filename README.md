@@ -497,7 +497,7 @@ In this step, we'll start with the first topic: `EvenAndOdd`.
   * `div` - className="puzzleBox evenAndOddPB"
   * `input` - className="inputLine"
   * `button` - className="confirmationButton"
-  * Both `span`s - className="resultsBox"
+  * Both `span`s - className="confirmationButton"
 * Assign the `h4` element the value of `"Evens and Odds"`.
 * Create a `constructor` method that creates an initial state:
   * `evenArray` - This should default to an empty array.
